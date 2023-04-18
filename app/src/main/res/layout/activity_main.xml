@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="手勢辨別"
-        android:textSize="36sp"/>
+        android:textSize="34sp"/>
 
     <ImageView
         android:id="@+id/img1"
